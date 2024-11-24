@@ -52,6 +52,7 @@ To get started with the project, follow these steps:
 If you have any questions or suggestions, feel free to reach out:
 
 - **GitHub**: [gopalchandak-dev](https://github.com/gopalchandak-dev)
-- **Email**: [gopal@example.com](mailto:gopal@example.com)
+- **X**: [GopalChandakk](https://x.com/GopalChandakk)
+- **Email**: [btw.gopal@gmail.com](mailto:gopal@example.com)
 
-We hope you enjoy using this project as much as we enjoyed building it. Happy coding!
+Happy coding!
