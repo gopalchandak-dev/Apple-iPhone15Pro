@@ -36,7 +36,7 @@ const Footer = () => {
 							>
 								{link}{" "}
 								{i !== footerLinks.length - 1 && (
-									<span className="mx-1">|</span>
+									<span className="mx-0.5">|</span>
 								)}
 							</p>
 						))}
